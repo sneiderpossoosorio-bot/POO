@@ -15,14 +15,14 @@ public class AppNequi {
         Scanner sc = new Scanner(System.in);
 
         // ===============================
-        // CREAR BANCOS (AGREGACIÓN)
+        //         CREAR BANCOS 
         // ===============================
         Banco bancoA = new Banco("Banco de Bogota");
         Banco bancoB = new Banco("Bancolombia");
         Banco bancoC = new Banco("Davivienda");
 
         // ===============================
-        // CREAR CLIENTE (HERENCIA + COMPOSICION)
+        //        CREAR CLIENTE 
         // ===============================
         Cuenta cuentaCarlos  = new Cuenta(2000000.0);   // Composicion: Cliente tiene Cuenta
         Cliente carlos = new Cliente("Carlos", "11185363721", cuentaCarlos);
