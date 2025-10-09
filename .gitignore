@@ -1,0 +1,3 @@
+# Ignorar backups de .git anidados
+/AppNequi/src/.git_backup/
+/AppNequi/src/main/java/com/mycompany/.git_backup/
