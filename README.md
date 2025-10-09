@@ -26,7 +26,7 @@ El sistema permite a los usuarios gestionar su dinero, realizar transacciones lo
 
 ---
 
-## 🛠 Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - *Lenguaje:* Java 17  
 - *Entorno:* NetBeans / IntelliJ IDEA  
@@ -37,6 +37,6 @@ El sistema permite a los usuarios gestionar su dinero, realizar transacciones lo
 
 ---
 
-## 🧩 Arquitectura del proyecto
+##  Arquitectura del proyecto
 
 Oscar josue rodriguez aguirre
