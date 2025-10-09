@@ -24,7 +24,7 @@ El sistema permite a los usuarios gestionar su dinero, realizar transacciones lo
  *Metas de ahorro* : Crea, aparta y administra metas personales. 
  *Facturas en PDF* : Genera comprobantes automáticos de las operaciones usando Apache PDFBox. 
 
----
+
 
 ##  Tecnologías utilizadas
 
@@ -35,7 +35,7 @@ El sistema permite a los usuarios gestionar su dinero, realizar transacciones lo
   - java.util → listas, fechas y colecciones  
   - Scanner → entrada de datos por consola  
 
----
+
 
 ##  Arquitectura del proyecto
 
