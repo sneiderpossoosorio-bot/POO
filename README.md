@@ -39,4 +39,4 @@ El sistema permite a los usuarios gestionar su dinero, realizar transacciones lo
 
 ##  Arquitectura del proyecto
 
-Oscar josue rodriguez aguirre
+oscar josue aguirre
